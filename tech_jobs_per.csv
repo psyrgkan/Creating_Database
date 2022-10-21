@@ -1,0 +1,43 @@
+Country;JOBS;MEN;WOMEN
+GENERAL;cloud computing (%);88;12
+GENERAL;engineering(%);85;15
+GENERAL;Data and AI(%);74;26
+GENERAL;Product development(%);65;35
+GENERAL;content production (%);43;57
+GENERAL;people and culture(%);35;65
+France;cloud computing (%);91;9
+France;engineering(%);89;11
+France;Data and AI(%);73;27
+France;Product development(%);72;28
+France;content production (%);33;67
+France;people and culture(%);31;69
+Germany;cloud computing (%);92;8
+Germany;engineering(%);85;15
+Germany;Data and AI(%);76;24
+Germany;Product development(%);64;36
+Germany;content production (%);55;45
+Germany;people and culture(%);35;65
+Ireland;cloud computing (%);83;17
+Ireland;engineering(%);81;19
+Ireland;Data and AI(%);69;31
+Ireland;Product development(%);64;36
+Ireland;content production (%);35;65
+Ireland;people and culture(%);32;68
+Spain;cloud computing (%);88;12
+Spain;engineering(%);88;12
+Spain;Data and AI(%);75;25
+Spain;Product development(%);68;32
+Spain;content production (%);42;58
+Spain;people and culture(%);34;66
+Italy;cloud computing (%);83;17
+Italy;engineering(%);81;19
+Italy;Data and AI(%);69;31
+Italy;Product development(%);64;36
+Italy;content production (%);35;65
+Italy;people and culture(%);32;68
+UK;cloud computing (%);91;9
+UK;engineering(%);86;14
+UK;Data and AI(%);78;22
+UK;Product development(%);68;32
+UK;content production (%);48;52
+UK;people and culture(%);41;59
